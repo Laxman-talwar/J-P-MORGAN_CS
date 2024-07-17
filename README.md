@@ -1,2 +1,2 @@
 # J-P-MORGAN_CS
-J P MORGAN Cyber Security Viertual Intenship Experience Program
+J P MORGAN Cyber Security Virtual Intenship Experience Program
